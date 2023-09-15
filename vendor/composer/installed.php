@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'b74f5ab434de499f8c4cccf62f92a3dacfdaa7d6',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,18 +11,18 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'b74f5ab434de499f8c4cccf62f92a3dacfdaa7d6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'peterson/validator' => array(
-            'pretty_version' => '3.3.6',
-            'version' => '3.3.6.0',
-            'reference' => 'caafc72290fa5fddc2acc9489f33e1b170f00b74',
+            'pretty_version' => '3.3.7',
+            'version' => '3.3.7.0',
+            'reference' => '945c68f562f5a4ff189d0a3c830bc17127e7c21c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../peterson/validator',
             'aliases' => array(),

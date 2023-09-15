@@ -232,12 +232,14 @@ class UltimateMethods {
         // in array keys
         $formData = self::getForm();
         if(is_array($formData) && in_array($key, array_keys($formData))){
-            // check if the data to be returned is an array
+            // get data using key
             $data = $formData[$key];
+
+            // check if the data to be returned is an array
             if(is_array($data)){
                 return array_combine($data, $data);
-            } 
-
+            }
+            
             return $data;
         }
     }

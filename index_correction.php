@@ -50,19 +50,19 @@
             </p>
 
             <label for="reading">
-                reading
+                Reading
                 <input type="checkbox" name="activities[]" value="reading" id="reading" <?= $custom->validateCheckbox('activities', 'reading') ?>>
             </label>
             <label for="writing">
-                writing
+                Writing
                 <input type="checkbox" name="activities[]" value="writing" id="writing" <?= $custom->validateCheckbox('activities', 'writing') ?>>
             </label>
             <label for="running">
-                running
+                Running
                 <input type="checkbox" name="activities[]" value="running" id="running" <?= $custom->validateCheckbox('activities', 'running') ?>>
             </label>
             <label for="swimming">
-                swimming
+                Swimming
                 <input type="checkbox" name="activities[]" value="swimming" id="swimming" <?= $custom->validateCheckbox('activities', 'swimming') ?>>
             </label>
         </div>
