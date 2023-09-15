@@ -20,7 +20,6 @@ class CustomForm{
     {
         // configure form error and success class
         config_form([
-            'error_type' => true,
             'class' => [
                 'error' => 'alert-danger',
                 'success' => 'alert-success',
