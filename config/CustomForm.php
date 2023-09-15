@@ -18,15 +18,16 @@ class CustomForm{
      */
     public function __construct()
     {
-        $this->form = form();
-
         // configure form error and success class
         config_form([
+            'error_type' => true,
             'class' => [
                 'error' => 'alert-danger',
                 'success' => 'alert-success',
             ]
         ]);
+
+        $this->form = form();
     }
 
     
