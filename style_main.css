@@ -1,0 +1,12 @@
+.form__error{
+    background-color: red;
+    border-radius: 5px;
+    padding: 4px;
+    color: white;
+}
+.form__success{
+    background-color: green;
+    border-radius: 5px;
+    padding: 4px;
+    color: white;
+}
