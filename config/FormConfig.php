@@ -10,7 +10,7 @@ class FormConfig
         config_form([
             'request'       => 'POST',
             'error_type'    => false,
-            'csrf_token'    => true,
+            'csrf_token'    => false,
             'class'         => [
                 'error'     => 'form__error',
                 'success'   => 'form__success'
