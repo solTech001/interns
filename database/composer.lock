@@ -141,16 +141,16 @@
         },
         {
             "name": "peterson/database",
-            "version": "4.3.6",
+            "version": "4.3.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tamedevelopers/database.git",
-                "reference": "01ef74bd21fc51d6ba6f954f8cd59dffec5dd76c"
+                "reference": "dec101b5db0f2e83c280b0dab338b419e013018b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tamedevelopers/database/zipball/01ef74bd21fc51d6ba6f954f8cd59dffec5dd76c",
-                "reference": "01ef74bd21fc51d6ba6f954f8cd59dffec5dd76c",
+                "url": "https://api.github.com/repos/tamedevelopers/database/zipball/dec101b5db0f2e83c280b0dab338b419e013018b",
+                "reference": "dec101b5db0f2e83c280b0dab338b419e013018b",
                 "shasum": ""
             },
             "require": {
@@ -199,9 +199,9 @@
             ],
             "support": {
                 "issues": "https://github.com/tamedevelopers/database/issues",
-                "source": "https://github.com/tamedevelopers/database/tree/4.3.6"
+                "source": "https://github.com/tamedevelopers/database/tree/4.3.7"
             },
-            "time": "2023-09-20T09:19:31+00:00"
+            "time": "2023-09-20T18:07:12+00:00"
         },
         {
             "name": "phpoption/phpoption",
