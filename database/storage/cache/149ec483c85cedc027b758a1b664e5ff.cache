@@ -1,0 +1,1 @@
+{"value":{"driver":"mysql","host":"localhost","port":"3306","database":"orm","username":"orm","password":"","charset":"utf8mb4","collation":"utf8mb4_unicode_ci","prefix":"wp_","prefix_indexes":true},"expires_at":1695840142}
